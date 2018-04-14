@@ -1,0 +1,12 @@
+{
+    "name": "kingshark/route-checker",
+    "description": "a package to check whether there are route name conflicts",
+    "authors": [
+        {
+            "name": "Xiao Wang",
+            "email": "kingshark8848@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
